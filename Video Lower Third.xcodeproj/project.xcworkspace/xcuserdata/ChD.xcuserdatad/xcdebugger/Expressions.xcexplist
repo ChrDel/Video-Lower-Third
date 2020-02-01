@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.loadVideo(from:with:in:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "playerLayer.superlayer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.togglePlayback(for:playButton:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "player.timeControlStatus">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.initPlayers():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "notification.object">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.imagePickerController(_:didFinishPickingMediaWithInfo:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.addOverlay(vidAsset:lowerThirdText:complete:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "textLayer.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.addOverlayText(_:to:completionHandler:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIApplication.shared.isIdleTimerDisabled">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
